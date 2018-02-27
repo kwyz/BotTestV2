@@ -1,0 +1,11 @@
+D:\ChatBot\EgovTestBot\DataBaseLoad\bin\Debug\netcoreapp2.0\DataBaseLoad.deps.json
+D:\ChatBot\EgovTestBot\DataBaseLoad\bin\Debug\netcoreapp2.0\DataBaseLoad.runtimeconfig.json
+D:\ChatBot\EgovTestBot\DataBaseLoad\bin\Debug\netcoreapp2.0\DataBaseLoad.runtimeconfig.dev.json
+D:\ChatBot\EgovTestBot\DataBaseLoad\bin\Debug\netcoreapp2.0\DataBaseLoad.dll
+D:\ChatBot\EgovTestBot\DataBaseLoad\obj\Debug\netcoreapp2.0\DataBaseLoad.csprojResolveAssemblyReference.cache
+D:\ChatBot\EgovTestBot\DataBaseLoad\obj\Debug\netcoreapp2.0\DataBaseLoad.csproj.CoreCompileInputs.cache
+D:\ChatBot\EgovTestBot\DataBaseLoad\obj\Debug\netcoreapp2.0\DataBaseLoad.AssemblyInfoInputs.cache
+D:\ChatBot\EgovTestBot\DataBaseLoad\obj\Debug\netcoreapp2.0\DataBaseLoad.AssemblyInfo.cs
+D:\ChatBot\EgovTestBot\DataBaseLoad\bin\Debug\netcoreapp2.0\DataBaseLoad.pdb
+D:\ChatBot\EgovTestBot\DataBaseLoad\obj\Debug\netcoreapp2.0\DataBaseLoad.dll
+D:\ChatBot\EgovTestBot\DataBaseLoad\obj\Debug\netcoreapp2.0\DataBaseLoad.pdb
